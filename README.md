@@ -1,6 +1,15 @@
 # Designs
 Art, drawing. animation, sketches, paintings and designs
 
+# Bank Userinterface
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/74372044/223587472-2fd573bb-ccad-4c4c-ab86-ceca4d264c7f.gif)
+
+# LED Light userinterface 
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/74372044/223587492-a880bf7c-30da-4304-a7bb-e4467fd4d6ba.gif)
+
+# Smart home Userinterface
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/74372044/223587507-751b7a7e-761c-40f3-9cf0-1258fdecc48c.gif)
+
 # Zombie Doctor Strange
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/74372044/220810681-2b69d6dc-f8c7-40d6-85e6-541bb432f5f6.gif)
 
