@@ -1,8 +1,7 @@
 # Designs
 Art, drawing. animation, sketches, paintings and designs
 
-![Untitled design (1)](https://github.com/georgeEn/Designs/assets/74372044/5c5948ac-f1e1-4eb9-bdb1-be35c7aa9eee)
-
+![Untitled design](https://github.com/georgeEn/Designs/assets/74372044/00e73787-5bf6-44bc-84d7-57e54256c483)
 
 # Bank Userinterface
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/74372044/223587472-2fd573bb-ccad-4c4c-ab86-ceca4d264c7f.gif)
