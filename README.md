@@ -1,6 +1,8 @@
 # Designs
 Art, drawing. animation, sketches, paintings and designs
 
+file:///C:/Users/georg/Downloads/Untitled%20design.gif
+
 # Bank Userinterface
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/74372044/223587472-2fd573bb-ccad-4c4c-ab86-ceca4d264c7f.gif)
 
